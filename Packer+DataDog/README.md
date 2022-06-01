@@ -1,4 +1,4 @@
-# Python-Cloud-Project-Part3
+# Weather-App-Project-Part3
 
 Continuing off from part 2 where I created a docker image and deployed it using ecs + fargate, I wanted to explore creating custom AMIs via Packer.
 
@@ -15,7 +15,3 @@ All of my infrastructure was deployed via Terraform.
 - **Bash Scripting**
 - **Terraform**
 - **DataDog Monitoring**
-
-What's next?
-
-For the last and final addition of this project, I want to incorporate configuration management using Ansible and integrate Ansible wih DataDog to respond to any metric alarms
